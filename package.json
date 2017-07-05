@@ -1,0 +1,31 @@
+{
+    "name": "homebridge-iota",
+    "version": "0.0.1",
+    "description": "iota platform plugin for Homebridge",
+    "homepage": "https://github.com/devbobo/homebridge-iota#readme",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/devbobo/homebridge-iota.git"
+    },
+    "licenses" : [
+        {
+        "type" : "MIT",
+        "url" : "https://github.com/devbobo/homebridge-iota/raw/master/LICENSE"
+        }
+    ],
+    "bugs": {
+        "url": "http://github.com/devbobo/homebridge-iota/issues"
+    },
+    "engines": {
+        "node": ">=6.0.0",
+        "homebridge": ">=0.4.1"
+    },
+    "keywords": [
+        "homebridge-plugin",
+        "dot",
+        "iota",
+        "iota labs"
+    ],
+    "dependencies": {
+    }
+}
